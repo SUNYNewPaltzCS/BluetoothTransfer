@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bluetooth Transfer</string>
+
+    <!-- Display Activity -->
+    <string name="button_enableBluetooth">Enable Bluetooth</string>
+    <string name="button_receive">Receive Text</string>
+
+    <string name="error_title">Error</string>
+    <string name="no_bt_adapter">Bluetooth is not available on this device</string>
+
+    <!-- Receive Activity -->
+    <string name="button_save">Save To File</string>
+
+    <string name="connection_title">Waiting for client connection</string>
+
+    <string name="error_message_00">Please enable Bluetooth.</string>
+    <string name="error_message_01">Failed to establish connection.</string>
+    <string name="error_message_02">Failed to initialize server socket.</string>
+    <string name="error_message_03">Connection timed out. Try again.</string>
+
+    <string name="message_success_toast">Message received!</string>
+</resources>
